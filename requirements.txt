@@ -1,0 +1,10 @@
+streamlit
+pypdf
+faiss-cpu
+sentence-transformers==3.0.1
+torch==2.3.1
+transformers==4.41.2
+numpy==1.26.4
+langchain-text-splitters
+langchain-groq
+python-dotenv
